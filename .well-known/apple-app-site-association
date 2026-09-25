@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["GT8P3H7SPW.com.mcafee.mms", "GT8P3H7SPW.com.mcafee.mms.Clip"],
+        "components": [
+          {
+            "/": "/smartScan*",
+            "comment": "Matches /smartScan and /smartScan?email=...&src=...&campaign=... for Universal Link + App Clip invocation"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["GT8P3H7SPW.com.mcafee.mms.Clip"]
+  }
+}
